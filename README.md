@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Название занятия`" - `Ruslan Aniskin`
+# Домашнее задание к занятию "Уязвимости и атаки на информационные системы" - `Ruslan Aniskin`
 
 ### Задание 1
 
@@ -21,13 +21,13 @@
 Приведите ответ в свободной форме.
 
 
-'![nmap-Results](https://drive.google.com/file/d/1yFX57ETRQ3JxczF7vpyC8YEy8YZNweLP/view?usp=share_link)'
+![nmap-Results](https://github.com/aniskinruslan/netology-tasks/blob/main/nmap.jpg)
 
-'![vsftpd](https://www.exploit-db.com/exploits/49757)'
+https://www.exploit-db.com/exploits/49757
 
-'![vsftpd](https://www.exploit-db.com/exploits/3489)'
+https://www.exploit-db.com/exploits/3489
 
-'![vsftpd](https://www.exploit-db.com/exploits/32798)'
+vsftpd](https://www.exploit-db.com/exploits/32798
 
 
 ---
