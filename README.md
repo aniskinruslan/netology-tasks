@@ -27,8 +27,7 @@ https://www.exploit-db.com/exploits/49757
 
 https://www.exploit-db.com/exploits/3489
 
-vsftpd](https://www.exploit-db.com/exploits/32798
-
+https://www.exploit-db.com/exploits/32798
 
 ---
 
