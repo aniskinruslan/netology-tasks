@@ -21,13 +21,13 @@
 Приведите ответ в свободной форме.
 
 
-![nmap-Results](https://drive.google.com/file/d/1yFX57ETRQ3JxczF7vpyC8YEy8YZNweLP/view?usp=share_link)'
+'![nmap-Results](https://drive.google.com/file/d/1yFX57ETRQ3JxczF7vpyC8YEy8YZNweLP/view?usp=share_link)'
 
-![vsftpd](https://www.exploit-db.com/exploits/49757)'
+'![vsftpd](https://www.exploit-db.com/exploits/49757)'
 
-![vsftpd](https://www.exploit-db.com/exploits/3489)'
+'![vsftpd](https://www.exploit-db.com/exploits/3489)'
 
-![vsftpd](https://www.exploit-db.com/exploits/32798)'
+'![vsftpd](https://www.exploit-db.com/exploits/32798)'
 
 
 ---
